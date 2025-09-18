@@ -36037,7 +36037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2271543735748642073, guid: f648810c93cb31344900c75bae72767f, type: 3}
       propertyPath: ShotsToComplete
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7962933043634422246, guid: f648810c93cb31344900c75bae72767f, type: 3}
       propertyPath: m_Name
@@ -46256,7 +46256,7 @@ Transform:
   m_GameObject: {fileID: 2127694530}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -1, w: 0}
-  m_LocalPosition: {x: -16, y: 9, z: 32}
+  m_LocalPosition: {x: -15.5, y: 9, z: 16}
   m_LocalScale: {x: 2, y: 3, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
